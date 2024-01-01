@@ -2,7 +2,7 @@
 AI Robotics KR 2024 Study Repository
 
 ## 👀| 3D Vision
-- 2024-3d-vision-team
+- 2024-3d-vision
 
 ## 🤖| 모두의 로보틱스 강의와 AutoCAD로 시작하는 로봇제작
 - 2024-everybody's-robotics
