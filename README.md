@@ -15,8 +15,8 @@ AI Robotics KR 2024 Study Repository
 - 2024-large-language-model
 
 ## 🎮| MuJoCo로 시작하는 강화학습
-- 2024-reinforcement-learning-team-a
-- 2024-reinforcement-learning-team-b
+- 2024-reinforcement-learning-basic
+- 2024-reinforcement-learning-advanced
 
 ## 🎡| Multi-Agent Decision Making
 - 2024-multi-agent
