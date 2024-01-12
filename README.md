@@ -12,7 +12,7 @@ AI Robotics KR 2024 Study Repository
 - [Visual SLAM (team b)](https://github.com/ai-robotics-kr/2024-visual-slam-team-b)
 
 ## 🛸| LLM과 드론 시뮬레이터로 드론 레이싱
-- [Large Language Model](https://github.com/ai-robotics-kr/2024-large-language-model)
+- [LLM for Drone](https://github.com/ai-robotics-kr/2024-large-language-model)
 
 ## 🎮| MuJoCo로 시작하는 강화학습
 - [Reinforcement Learning (basic)](https://github.com/ai-robotics-kr/2024-reinforcement-learning-basic)
