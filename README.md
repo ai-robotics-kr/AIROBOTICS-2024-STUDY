@@ -10,6 +10,7 @@ AI Robotics KR 2024 Study Repository
 ## 🌏| Visual SLAM 북 스터디와 미니 RC카 실습
 - [Visual SLAM (team a)](https://github.com/ai-robotics-kr/2024-visual-slam-team-a)
 - [Visual SLAM (team b)](https://github.com/ai-robotics-kr/2024-visual-slam-team-b)
+- [Visual SLAM](https://github.com/ai-robotics-kr/2024-visual-slam)
 
 ## 🛸| LLM과 드론 시뮬레이터로 드론 레이싱
 - [LLM for Drone](https://github.com/ai-robotics-kr/2024-large-language-model)
